@@ -1,2 +1,2 @@
 # Timer-Task
-Mobile app.
+Mobile app on android.
